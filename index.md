@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## About Elyse
 
-You can use the [editor on GitHub](https://github.com/eander74/TestRun1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+She's a total noob here on GitHub! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This seems cool. I wonder what it will look like...
 
 ### Markdown
 
